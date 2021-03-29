@@ -1,0 +1,5 @@
+This is a new text file that will be added to the main branch. 
+
+There will be 1 commit detailing the text found in here. 
+
+There will also be 2 comments before this text file is merged into the main branch.
